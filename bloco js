@@ -1,0 +1,18 @@
+        
+var    ==     variável
+
++      :      soma
+-      :      subtração
+=      :      valorarizador
+!=     :      different
+==     :      equal
+||     :      or
+&&     :      and
+!      :      not
+
+if     :      é válido no Js
+else if:      é válido no Js
+else   :      é válido no Js
+
+in     :      é válido no Js
+        
